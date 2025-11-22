@@ -66,7 +66,8 @@ You will be scored on:
 - Visual walkthrough of your site and responsiveness
 - Presentation skills (confidence, clarity, visual aids)
 
-📎 presentation_template.md:https://www.veed.io/view/1304c2c8-37ef-44e9-acb8-a044a0562d2f?source=editor&panel=share
+📎 presentation_template.md:
+https://www.veed.io/view/1304c2c8-37ef-44e9-acb8-a044a0562d2f?source=editor&panel=share
 
 ---
 
